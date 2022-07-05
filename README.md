@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CosmicFungus/CosmicFungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ross
+
+A graduate software developer, currently working at the BBC as an Operations Engineer. 
+
+I provide bespoke IT solutions to individuals and small business, from web design and maintenance, to hardware install and support.
